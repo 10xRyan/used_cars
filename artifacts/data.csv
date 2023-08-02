@@ -4214,7 +4214,6 @@ model,year,price,transmission,mileage,fuelType,tax,mpg,engineSize
  3 Series,2019,32980,Automatic,2561,Diesel,145,49.6,2.0
  2 Series,2019,34950,Manual,3254,Diesel,145,54.3,1.5
  4 Series,2019,24480,Automatic,3106,Diesel,145,65.7,2.0
- X3,2019,30850,Semi-Auto,14260,Petrol,145,30.4,2.0
  1 Series,2017,14127,Manual,43655,Diesel,20,68.9,2.0
  5 Series,2017,20900,Semi-Auto,40910,Diesel,145,65.7,2.0
  5 Series,2017,22695,Semi-Auto,14563,Diesel,145,65.7,2.0
@@ -4500,7 +4499,6 @@ model,year,price,transmission,mileage,fuelType,tax,mpg,engineSize
  2 Series,2017,16498,Semi-Auto,22645,Diesel,145,64.2,2.0
  1 Series,2015,11995,Semi-Auto,23484,Diesel,30,64.2,2.0
  3 Series,2016,12950,Manual,59833,Diesel,125,61.4,2.0
- 4 Series,2017,16507,Automatic,26800,Diesel,30,65.7,2.0
  3 Series,2019,27995,Semi-Auto,3751,Diesel,145,52.3,2.0
  4 Series,2019,27995,Semi-Auto,1501,Diesel,145,65.7,2.0
  X4,2019,33995,Semi-Auto,7141,Diesel,145,42.8,2.0
@@ -5097,6 +5095,7 @@ model,year,price,transmission,mileage,fuelType,tax,mpg,engineSize
  X4,2015,19660,Semi-Auto,52020,Diesel,145,54.3,2.0
  1 Series,2016,15090,Semi-Auto,30480,Petrol,125,54.3,1.5
  5 Series,2016,17160,Semi-Auto,15830,Diesel,30,62.8,2.0
+ 4 Series,2017,16507,Automatic,26800,Diesel,30,65.7,2.0
  4 Series,2013,12220,Semi-Auto,73023,Diesel,125,57.6,3.0
  3 Series,2017,15290,Semi-Auto,61610,Petrol,150,48.7,2.0
  4 Series,2016,18430,Semi-Auto,22220,Diesel,30,65.7,2.0
@@ -10040,7 +10039,6 @@ model,year,price,transmission,mileage,fuelType,tax,mpg,engineSize
  5 Series,2017,18700,Automatic,28893,Diesel,150,68.9,2.0
  5 Series,2017,15000,Automatic,41026,Diesel,30,62.8,2.0
  X5,2016,22900,Automatic,42421,Diesel,160,50.4,2.0
- 2 Series,2017,11800,Manual,31601,Diesel,150,74.3,1.5
  X5,2015,21000,Automatic,32352,Diesel,150,53.3,2.0
  3 Series,2013,6995,Manual,93729,Petrol,125,53.3,1.6
  3 Series,2012,7995,Automatic,77028,Diesel,30,62.8,2.0
@@ -10069,7 +10067,6 @@ model,year,price,transmission,mileage,fuelType,tax,mpg,engineSize
  3 Series,2016,12100,Manual,53855,Diesel,30,62.8,2.0
  1 Series,2014,8800,Manual,35974,Diesel,0,74.3,1.6
  7 Series,2012,12500,Automatic,66294,Diesel,160,50.4,3.0
- 3 Series,2016,10800,Automatic,80077,Diesel,20,70.6,2.0
  5 Series,2015,14500,Automatic,33731,Diesel,30,62.8,2.0
  X3,2016,20800,Automatic,26464,Diesel,145,54.3,2.0
  2 Series,2016,12300,Manual,24073,Petrol,30,55.4,1.5
@@ -10345,7 +10342,6 @@ model,year,price,transmission,mileage,fuelType,tax,mpg,engineSize
  1 Series,2018,15500,Automatic,9877,Petrol,145,37.2,1.5
  7 Series,2013,13950,Automatic,81035,Diesel,160,50.4,3.0
  3 Series,2017,15500,Manual,32068,Diesel,30,64.2,2.0
- X5,2014,23000,Automatic,56232,Diesel,205,45.6,3.0
  3 Series,2016,10000,Manual,90161,Diesel,30,67.3,2.0
  3 Series,2014,13000,Automatic,37334,Diesel,30,62.8,2.0
  1 Series,2017,12000,Manual,21166,Diesel,150,72.4,1.5
@@ -14945,7 +14941,6 @@ model,year,price,transmission,mileage,fuelType,tax,mpg,engineSize
  A4,2016,23500,Semi-Auto,26270,Diesel,145,56.5,2.0
  A8,2018,34700,Automatic,15486,Diesel,145,50.4,3.0
  A4,2017,17850,Manual,26461,Diesel,30,67.3,2.0
- A6,2018,24850,Semi-Auto,15552,Diesel,145,56.5,2.0
  A6,2018,20450,Manual,36000,Diesel,145,61.4,2.0
  A6,2019,30850,Semi-Auto,5000,Diesel,145,50.4,2.0
  A3,2019,30495,Semi-Auto,5910,Petrol,145,34.9,2.0
@@ -15222,7 +15217,6 @@ model,year,price,transmission,mileage,fuelType,tax,mpg,engineSize
  Q3,2018,24991,Semi-Auto,16655,Petrol,150,45.6,1.4
  A3,2013,9991,Manual,55600,Diesel,20,68.9,2.0
  A6,2016,31991,Semi-Auto,24827,Petrol,330,30.7,4.0
- A1,2016,12491,Manual,38876,Petrol,30,55.4,1.4
  TT,2017,16991,Manual,38083,Petrol,150,47.1,1.8
  A3,2018,26891,Semi-Auto,27342,Petrol,150,43.5,2.0
  A8,2018,38861,Semi-Auto,5760,Petrol,145,37.7,3.0
@@ -20718,7 +20712,6 @@ model,year,price,transmission,mileage,fuelType,tax,mpg,engineSize
  A1,2012,7650,Manual,19200,Petrol,30,55.4,1.2
  A1,2018,13995,Semi-Auto,32000,Petrol,150,57.7,1.4
  A5,2010,5750,Automatic,90000,Petrol,235,39.8,2.0
- A2,2003,2490,Manual,100000,Diesel,30,65.7,1.4
  Q5,2016,21995,Semi-Auto,37000,Diesel,200,47.1,2.0
  A1,2014,10995,Manual,36000,Petrol,125,52.3,1.4
  Q5,2016,20000,Semi-Auto,40905,Diesel,205,47.1,2.0
@@ -20747,7 +20740,6 @@ model,year,price,transmission,mileage,fuelType,tax,mpg,engineSize
  A4,2006,3888,Manual,80000,Petrol,300,33.6,2.0
  A3,2015,11240,Automatic,89000,Hybrid,0,176.6,1.4
  A5,2012,8990,Automatic,94000,Petrol,200,40.4,2.0
- RS7,2014,33490,Automatic,56000,Petrol,555,28.8,4.0
  Q5,2013,14990,Manual,41000,Diesel,200,47.9,2.0
  A5,2011,9940,Manual,35000,Diesel,150,51.4,2.0
  A4,2013,12880,Automatic,43000,Diesel,150,49.6,3.0
@@ -21023,7 +21015,6 @@ model,year,price,transmission,mileage,fuelType,tax,mpg,engineSize
  A4,2020,43000,Automatic,3000,Diesel,145,40.4,3.0
  A4,2020,44000,Automatic,7500,Diesel,145,39.2,3.0
  Q5,2020,48000,Automatic,5000,Diesel,145,34.5,3.0
- Q2,2019,24950,Automatic,7813,Petrol,145,40.9,1.5
  Q5,2018,32950,Automatic,13472,Petrol,145,40.4,2.0
  A1,2017,13300,Manual,12181,Petrol,145,67.3,1.0
  A1,2018,18000,Automatic,21002,Petrol,150,55.4,1.4
@@ -25509,7 +25500,6 @@ model,year,price,transmission,mileage,fuelType,tax,mpg,engineSize
  Grand C-MAX,2017,11998,Manual,29396,Diesel,30,64.2,1.5
  Fiesta,2018,10298,Manual,13148,Petrol,150,55.4,1.1
  EcoSport,2017,9998,Semi-Auto,31788,Petrol,165,44.8,1.5
- Grand C-MAX,2017,10998,Manual,48934,Petrol,150,54.3,1.0
  C-MAX,2017,9998,Manual,23046,Diesel,20,68.9,1.5
  C-MAX,2017,9998,Manual,25003,Petrol,30,55.4,1.0
  Fiesta,2017,9998,Manual,21314,Petrol,150,65.7,1.0
@@ -25796,7 +25786,6 @@ model,year,price,transmission,mileage,fuelType,tax,mpg,engineSize
  B-MAX,2013,5795,Manual,44190,Petrol,30,55.4,1.0
  Focus,2019,16995,Manual,10000,Diesel,145,74.3,1.5
  EcoSport,2018,11995,Manual,6918,Petrol,145,54.3,1.0
- EcoSport,2017,9995,Manual,12055,Petrol,125,53.3,1.0
  Kuga,2018,16950,Semi-Auto,28624,Diesel,145,58.9,1.5
  Fiesta,2017,7672,Manual,13450,Petrol,125,54.3,1.2
  Fiesta,2017,7950,Manual,33622,Petrol,125,54.3,1.2
@@ -31290,7 +31279,6 @@ model,year,price,transmission,mileage,fuelType,tax,mpg,engineSize
  Kuga,2017,17995,Manual,32030,Diesel,145,54.3,2.0
  Focus,2017,11499,Manual,11091,Petrol,145,60.1,1.0
  Fiesta,2016,12599,Manual,12531,Petrol,145,47.9,1.6
- Fiesta,2017,11999,Manual,27616,Petrol,145,47.9,1.6
  Fiesta,2018,12499,Semi-Auto,14773,Petrol,145,54.3,1.0
  Focus,2017,10999,Manual,25331,Petrol,145,60.1,1.0
  Kuga,2015,9499,Manual,67947,Diesel,125,60.1,2.0
@@ -31319,7 +31307,6 @@ model,year,price,transmission,mileage,fuelType,tax,mpg,engineSize
  S-MAX,2016,12795,Manual,50691,Diesel,125,56.5,2.0
  Kuga,2017,14000,Automatic,14722,Petrol,235,38.2,1.5
  Fiesta,2017,10000,Manual,15438,Petrol,145,65.7,1.0
- S-MAX,2016,16699,Semi-Auto,26889,Diesel,125,52.3,2.0
  S-MAX,2016,19499,Automatic,27119,Petrol,260,35.8,2.0
  Fiesta,2017,7299,Manual,45688,Petrol,0,65.7,1.0
  Fiesta,2017,10499,Manual,18077,Petrol,145,62.8,1.0
@@ -31573,7 +31560,6 @@ model,year,price,transmission,mileage,fuelType,tax,mpg,engineSize
  Focus,2017,10770,Manual,22176,Petrol,20,60.1,1.0
  Fiesta,2019,13210,Manual,11078,Petrol,145,55.4,1.0
  EcoSport,2018,14560,Manual,1090,Petrol,145,54.3,1.0
- Kuga,2017,14130,Manual,14716,Diesel,125,60.1,2.0
  Grand C-MAX,2016,11160,Manual,30665,Petrol,30,54.3,1.0
  Kuga,2017,14440,Semi-Auto,57481,Diesel,145,54.3,2.0
  Kuga,2019,23760,Manual,7962,Diesel,145,37.7,2.0
@@ -32453,7 +32439,6 @@ model,year,price,transmission,mileage,fuelType,tax,mpg,engineSize
  Fiesta,2018,10500,Manual,8631,Petrol,145,65.7,1.0
  EcoSport,2017,10299,Manual,30963,Petrol,125,52.3,1.0
  Focus,2017,10699,Manual,22625,Diesel,0,74.3,1.5
- Kuga,2016,14499,Manual,32000,Diesel,125,60.1,2.0
  Focus,2017,10399,Manual,38697,Petrol,145,61.4,1.0
  Focus,2017,9699,Manual,47843,Petrol,145,60.1,1.0
  Mondeo,2015,9500,Manual,45506,Diesel,20,68.9,2.0
@@ -33092,8 +33077,6 @@ model,year,price,transmission,mileage,fuelType,tax,mpg,engineSize
  Mondeo,2016,11501,Manual,48401,Diesel,30,64.2,2.0
  Fiesta,2019,17500,Manual,6200,Petrol,145,40.3,1.5
  Fiesta,2018,15000,Manual,3973,Petrol,145,60.1,1.0
- Focus,2016,8700,Manual,27638,Petrol,20,61.4,1.0
- Focus,2017,12000,Manual,6179,Diesel,145,74.3,1.5
  Fiesta,2019,16800,Semi-Auto,7744,Petrol,145,48.7,1.0
  Fiesta,2019,17000,Semi-Auto,4928,Petrol,145,48.7,1.0
  Fiesta,2019,15800,Manual,6469,Petrol,145,55.4,1.0
@@ -34692,7 +34675,6 @@ model,year,price,transmission,mileage,fuelType,tax,mpg,engineSize
  Fiesta,2016,10195,Manual,15000,Petrol,0,65.7,1.0
  C-MAX,2009,3395,Automatic,88000,Petrol,300,34.9,2.0
  C-MAX,2008,2895,Manual,90000,Petrol,200,40.9,1.6
- Ranger,2013,14495,Manual,88000,Diesel,240,28.3,3.2
  Kuga,2016,12500,Manual,30300,Diesel,30,64.2,1.5
  Fiesta,2015,7750,Manual,20130,Petrol,125,54.3,1.2
  Fiesta,2019,16980,Manual,2999,Petrol,145,56.5,1.0
@@ -37953,7 +37935,6 @@ model,year,price,transmission,mileage,fuelType,tax,mpg,engineSize
  Fiesta,2012,5995,Manual,43008,Diesel,20,68.9,1.4
  Fiesta,2012,4995,Manual,54700,Diesel,20,68.9,1.4
  B-MAX,2013,5895,Manual,35000,Petrol,145,47.1,1.4
- Escort,1996,3000,Manual,50000,Petrol,265,34.4,1.8
  Focus,2017,12295,Manual,22327,Petrol,145,51.4,1.5
  Focus,2017,12259,Manual,18006,Diesel,145,74.3,1.5
  Focus,2016,9899,Manual,33228,Petrol,20,60.1,1.0
@@ -38815,7 +38796,6 @@ model,year,price,transmission,mileage,fuelType,tax,mpg,engineSize
  Focus,2018,12995,Manual,17161,Petrol,145,57.7,1.0
  Fiesta,2015,7495,Manual,26417,Petrol,0,65.7,1.0
  Fiesta,2013,7695,Automatic,30889,Petrol,150,47.9,1.6
- Transit Tourneo,2014,12450,Manual,19496,Diesel,235,42.2,2.2
  S-MAX,2007,2400,Manual,144000,Diesel,240,44.1,2.0
  Ka+,2018,8616,Manual,13900,Petrol,145,47.9,1.2
  Ka+,2017,7590,Manual,19975,Petrol,150,57.7,1.2
@@ -43266,7 +43246,6 @@ model,year,price,transmission,mileage,fuelType,tax,mpg,engineSize
  I10,2013,4589,Manual,33145,Petrol,20,61.4,1.2
  I30,2014,7174,Manual,38703,Diesel,0,76.3,1.6
  I10,2010,3695,Manual,41000,Petrol,30,57.6,1.2
- Accent,2000,1295,Automatic,47000,Petrol,150,38.7,1.3
  I20,2015,7433,Manual,26846,Petrol,125,51.4,1.4
  Terracan,2005,2895,Manual,130000,Diesel,325,32.8,2.9
  Getz,2007,1995,Manual,57000,Petrol,125,51.4,1.1
@@ -43551,7 +43530,6 @@ model,year,price,transmission,mileage,fuelType,tax,mpg,engineSize
  I10,2016,9350,Automatic,2900,Petrol,135,47.9,1.2
  IX20,2015,9250,Automatic,8500,Petrol,200,43.6,1.6
  I10,2018,7995,Manual,1480,Petrol,150,60.1,1.0
- Amica,2007,1750,Automatic,53000,Petrol,160,46.3,1.1
  I20,2013,4250,Manual,68000,Petrol,30,57.6,1.2
  I10,2010,3795,Manual,41000,Petrol,30,56.5,1.2
  I10,2017,6795,Manual,27000,Petrol,145,57.7,1.2
@@ -48071,7 +48049,6 @@ model,year,price,transmission,mileage,fuelType,tax,mpg,engineSize
  A Class,2019,21495,Semi-Auto,10847,Petrol,145,28.5,1.3
  E Class,2020,42480,Semi-Auto,1489,Diesel,145,57.7,2.0
  C Class,2019,26280,Semi-Auto,11923,Diesel,145,51.4,2.0
- E Class,2019,34995,Semi-Auto,4016,Diesel,145,57.7,2.0
  GLC Class,2020,36995,Semi-Auto,4999,Diesel,145,40.9,2.0
  GLE Class,2020,59995,Semi-Auto,4999,Petrol,145,29.5,3.0
  C Class,2019,26995,Semi-Auto,6447,Diesel,145,64.2,2.0
@@ -48357,7 +48334,6 @@ model,year,price,transmission,mileage,fuelType,tax,mpg,engineSize
  A Class,2020,27990,Semi-Auto,19,Petrol,145,28.5,1.3
  A Class,2020,27990,Semi-Auto,1499,Petrol,145,28.5,1.3
  A Class,2020,25990,Manual,1499,Petrol,145,47.1,1.3
- A Class,2020,25890,Manual,19,Petrol,145,47.1,1.3
  GLA Class,2017,20490,Semi-Auto,26580,Diesel,145,56.5,2.1
  SL CLASS,2017,20490,Semi-Auto,13484,Diesel,145,70.6,2.1
  C Class,2013,9990,Semi-Auto,41841,Diesel,145,56.5,2.1
@@ -53726,7 +53702,6 @@ model,year,price,transmission,mileage,fuelType,tax,mpg,engineSize
  E Class,2013,13790,Automatic,33516,Diesel,160,49.6,3.0
  GLA Class,2015,15490,Manual,31978,Diesel,20,64.2,2.1
  GLA Class,2016,16490,Automatic,26145,Diesel,30,64.2,2.1
- CLA Class,2017,17590,Automatic,53159,Diesel,125,58.9,2.1
  GL Class,2017,19299,Automatic,15309,Diesel,145,64.2,2.1
  A Class,2013,8491,Automatic,97000,Diesel,30,65.7,1.8
  A Class,2015,8491,Manual,124000,Diesel,20,70.6,1.5
@@ -53753,7 +53728,6 @@ model,year,price,transmission,mileage,fuelType,tax,mpg,engineSize
  C Class,2010,5993,Automatic,109000,Diesel,265,42.8,3.0
  GL Class,2015,17399,Automatic,23117,Diesel,125,55.4,2.1
  C Class,2016,14649,Manual,40049,Diesel,20,70.6,1.6
- A Class,2015,20749,Automatic,43509,Petrol,205,40.9,2.0
  C Class,2017,14749,Manual,46526,Diesel,20,70.6,1.6
  A Class,2013,7992,Manual,106000,Diesel,30,62.8,1.8
  A Class,2016,9391,Manual,108000,Diesel,20,72.4,1.5
@@ -54022,7 +53996,6 @@ model,year,price,transmission,mileage,fuelType,tax,mpg,engineSize
  CLS Class,2015,18499,Automatic,23446,Diesel,125,57.7,2.1
  GL Class,2015,19499,Automatic,14295,Diesel,125,55.4,2.1
  C Class,2015,15899,Automatic,48361,Hybrid,0,134.5,2.0
-180,2014,10799,Manual,39240,Diesel,20,72.4,1.5
  E Class,2009,6999,Automatic,114000,Diesel,235,44.1,2.1
  C Class,2013,11499,Automatic,69900,Diesel,140,56.5,2.1
  C Class,2008,5999,Automatic,91000,Diesel,230,42.2,2.1
@@ -54904,7 +54877,6 @@ model,year,price,transmission,mileage,fuelType,tax,mpg,engineSize
  V Class,2010,6949,Automatic,259000,Diesel,540,30.7,3.0
  C Class,2015,16500,Automatic,37000,Diesel,30,61.4,2.1
  SL CLASS,2010,18000,Automatic,32450,Petrol,540,29.1,3.5
-230,2007,4500,Automatic,94000,Petrol,520,29.4,0.0
  M Class,2008,6495,Semi-Auto,96000,Diesel,565,28.8,3.0
  E Class,2016,19599,Automatic,27032,Diesel,30,65.7,2.0
  C Class,2017,14399,Manual,18862,Petrol,145,53.3,2.0
@@ -55551,8 +55523,6 @@ model,year,price,transmission,mileage,fuelType,tax,mpg,engineSize
  C Class,2016,19995,Automatic,29000,Diesel,125,60.1,2.1
  GLC Class,2018,28995,Automatic,15000,Diesel,150,56.5,2.1
  C Class,2012,8495,Automatic,51564,Petrol,160,43.5,1.8
-220,2018,19995,Automatic,9814,Diesel,145,61.4,2.0
-200,2018,19495,Manual,15113,Diesel,145,64.2,2.2
  C Class,2013,22948,Automatic,39000,Petrol,570,23.5,6.2
  E Class,2015,16495,Automatic,36400,Diesel,125,56.5,2.1
  SL CLASS,2005,6995,Automatic,80543,Petrol,325,24.1,3.7
@@ -60958,7 +60928,6 @@ model,year,price,transmission,mileage,fuelType,tax,mpg,engineSize
  Aygo,2017,6995,Manual,21588,Petrol,145,69.0,1.0
  Aygo,2016,8495,Manual,14636,Petrol,0,69.0,1.0
  Aygo,2015,6995,Manual,12098,Petrol,0,69.0,1.0
- Aygo,2016,6698,Manual,36787,Petrol,0,69.0,1.0
  Aygo,2016,6998,Manual,28707,Petrol,0,69.0,1.0
  Aygo,2016,6995,Manual,15023,Petrol,0,69.0,1.0
  Aygo,2017,8495,Manual,11945,Petrol,145,68.9,1.0
@@ -61241,7 +61210,6 @@ model,year,price,transmission,mileage,fuelType,tax,mpg,engineSize
  Aygo,2018,10995,Semi-Auto,10204,Petrol,150,56.5,1.0
  Aygo,2018,7990,Manual,21540,Petrol,145,68.9,1.0
  Aygo,2015,8190,Semi-Auto,18015,Petrol,0,67.0,1.0
- Aygo,2016,6990,Manual,15138,Petrol,0,69.0,1.0
  Aygo,2018,7290,Manual,4612,Petrol,145,69.0,1.0
  Aygo,2018,8990,Manual,6537,Petrol,145,56.5,1.0
  Aygo,2018,7990,Manual,11345,Petrol,145,69.0,1.0
