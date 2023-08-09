@@ -1,0 +1,96 @@
+<html>
+<body>
+    <div class="login">
+       <h1>Used Car Price Predictor</h1>
+   
+       <form action="{{ url_for('prediction')}}" method="post">
+        <h1>
+            <legend>Price Showed in GBP</legend>
+        </h1>
+        <div class="mb-3">
+            <label class="form-label">Gender</label>
+            <select class="form-control" name="model" placeholder="Enter you Gender" required>
+                <option class="placeholder" selected disabled value="">Select your model</option>
+                <option value=" X5">
+                    X5
+                </option>
+                <option value=" X3">
+                    X3
+                </option>
+            </select>
+        </div>
+
+
+        <div class="mb-3">
+            <label class="form-label">year</label>
+            <input class="form-control" type="number" name="year"
+                placeholder="Enter the year of your car" min='2000' max='2023' />
+        </div>
+
+
+        <div class="mb-3">
+            <label class="form-label">Transmission</label>
+            <select class="form-control" name="transmission" placeholder="Enter the transmission" required>
+                <option class="placeholder" selected disabled value="">Select Transmission</option>
+                <option value=Automatic>
+                    Automatic
+                </option>
+                <option value="Manual">
+                    Manual
+                </option>
+            </select>
+        </div>
+
+
+        <div class="mb-3">
+            <label class="form-label">Mileage</label>
+            <input class="form-control" type="number" name="mileage"
+                placeholder="Enter the year of your car" min='0' max='300000' />
+        </div>
+
+
+        <div class="mb-3">
+            <label class="form-label">FuelType</label>
+            <select class="form-control" name="fuelType"
+                placeholder="Enter the fuel type" required>
+                <option class="placeholder" selected disabled value="">Select fuel type</option>
+                <option value="Diesel">
+                    Diesel
+                </option>
+                <option value="Petrol">
+                    Petrol
+                </option>
+            </select>
+        </div>
+
+        
+        <div class="mb-3">
+            <label class="form-label">Tax</label>
+            <input class="form-control" type="number" name="tax"
+                placeholder="Enter your tax" min='0' max='200' />
+        </div>
+
+
+        <div class="mb-3">
+            <label class="form-label">MPG</label>
+            <input class="form-control" type="number" name="mpg"
+                placeholder="Enter your mpg" min='0' max='200' />
+        </div>
+
+
+        <div class="mb-3">
+            <label class="form-label">Engine</label>
+            <input class="form-control" type="number" name="engineSize"
+                placeholder="Enter your engineSize" min='1' max='8' />
+        </div>
+
+
+        <div class="mb-3">
+            <input class="btn btn-primary" type="submit" value="Predict your car price" required />
+        </div>
+    </form>
+    <h2>
+       THE Estimated Price is {{results}}
+    </h2>
+   <body>
+</html>
