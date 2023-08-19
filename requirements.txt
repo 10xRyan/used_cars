@@ -5,4 +5,9 @@ matplotlib
 seaborn
 dill
 flask
+kaggle
+boto3
+pyspark
+ipykernel
+sagemaker
 -e .
